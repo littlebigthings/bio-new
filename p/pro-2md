@@ -1,0 +1,9 @@
+---
+layout: layouts/p.njk
+title: Sec Profile
+description: Bio data for First Profile
+date: 2023-03-29
+mugshot: /images/uploads/orange-veer.jpg
+---
+
+This is my second profile with body content.
